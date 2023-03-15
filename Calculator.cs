@@ -1,5 +1,9 @@
-class Calculator{
-	static void Main(string[] args){
-	
+class Calculator
+{
+	static void Main(string[] args)
+	{
+
 	}
+	
+
 }
